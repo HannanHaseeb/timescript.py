@@ -1,1 +1,1 @@
-# Script for fetchin URLs from Wayback Machine.
+# Script for fetching URLs from Wayback Machine.
